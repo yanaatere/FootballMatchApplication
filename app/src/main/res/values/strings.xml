@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">FootbalMatchApplication</string>
+    <string name="title_last_match"> Match </string>
+    <string name="title_next_match"> Team </string>
+    <string name="tvHomeTeam">Home</string>
+    <string name="tvHomeScore"/>
+    <string name="tvAwayScore"/>
+    <string name="tvAwayTeam">Away</string>
+    <string name="goal_players">Goal Player</string>
+    <string name="Score">Score</string>
+    <string name="vsteam">VS</string>
+    <string name="away_team">away</string>
+    <string name="home_team">home</string>
+    <string name="date"/>
+    <string name="goals">goals</string>
+    <string name="awayShots"/>
+    <string name="layout"/>
+    <string name="homeGoalKeeper">Goal Keeper</string>
+    <string name="center">Center</string>
+    <string name="forward">Forward</string>
+    <string name="subtitution">Subtitution</string>
+    <string name="homeDefense">Defense</string>
+    <string name="versus">VS</string>
+    <string name="time">Time</string>
+    <string name="tanggal">tanggal</string>
+    <string name="waktu">waktu</string>
+    <string name="vs">VS</string>
+    <string name="team">Team</string>
+    <string name="favorite">Favorite</string>
+    <string name="year">year</string>
+    <string name="name_stadion">name_stadion</string>
+    <string name="name_player">Name Player</string>
+    <string name="position">Position</string>
+    <string name="reward">reward</string>
+    <string name="overview">overview</string>
+    <string name="value">value</string>
+    <string name="height_m">height</string>
+    <string name="weight_kg">weight</string>
+
+    <array name="array_league">
+        <item>Pilih Liga</item>
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+</resources>

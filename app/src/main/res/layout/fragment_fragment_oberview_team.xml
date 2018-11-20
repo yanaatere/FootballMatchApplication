@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+
+             tools:context="com.retere.assosiate.footbalmatchapplication.detail.team.fragment.OverviewTeamFragment">
+
+
+    <ProgressBar
+            android:id="@+id/id_progressbar_overview_team"
+            android:layout_gravity="center|top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    <ScrollView
+            android:layout_margin="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <TextView
+                android:text="@string/team"
+                android:id="@+id/tv_overview_team"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+    </ScrollView>
+
+</FrameLayout>
